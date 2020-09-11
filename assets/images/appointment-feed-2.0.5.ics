@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//getbooked.io//Booked Calendar
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20180127T090000Z
+DTSTART:20180127T090000Z
+DTEND:20180127T100000Z
+SUMMARY:Joseph
+DESCRIPTION:josepfc9512@gmail.com\r\n
+ DNI\r
+ 81629739\r\n
+ 
+ Especialidad\r
+ Consulta\r\n
+ 
+ Numero de telefono\r
+ 997475659\r\n
+ 
+UID:booked-appointment-1955
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180127T103000Z
+DTSTART:20180127T103000Z
+DTEND:20180127T113000Z
+SUMMARY:Evelin
+DESCRIPTION:josefc9512@gmail.com\r\n
+ DNI\r
+ 50587635\r\n
+ 
+ Especialidad\r
+ Ortodoncia\r\n
+ 
+ Numero de telefono\r
+ 5237480\r\n
+ 
+UID:booked-appointment-1957
+END:VEVENT
+END:VCALENDAR
